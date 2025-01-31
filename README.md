@@ -14,3 +14,5 @@ The notebook AnimacionMapaCalor.ipynb (Gathers all the results and makes an anim
 ******************************************************************************************************************************************************************************************************************
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Part 2 analysis of precipitation data from Conabio
+
+Similar to part 1. Precs2013.ipynb loads the precipitation data from the conabio found in the github folder /Data/2013MM010000Lluv.csv. The notebook shows how once the data is cleaned, the results are plotted on a county map using BASEMAP python.
