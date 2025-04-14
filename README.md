@@ -16,3 +16,12 @@ The notebook AnimacionMapaCalor.ipynb (Gathers all the results and makes an anim
 Part 2 analysis of precipitation data from Conabio
 
 Similar to part 1. Precs2013.ipynb loads the precipitation data from the conabio found in the github folder /Data/2013MM010000Lluv.csv. The notebook shows how once the data is cleaned, the results are plotted on a county map using BASEMAP python.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+******************************************************************************************************************************************************************************************************************
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Part 3 Analysis of land surface temperature in Google Earth Engine.
+
+In the Scripts_GEE folder, you will find JS files for running in Google Earth Engine. There is a folder with geometries to use, as well as five files that show in a simple way how to obtain Land Surface Temperature (LST) and Normalized Difference Vegetation Index (NDVI) values. The first example is LANDSAT 8, LST_NDVI.js.
+
+In addition, it shows how to add legends (NDVI_leyend), time series (file LST_NDVI_TS_13_24), and differences between early and night time with MODIS.
